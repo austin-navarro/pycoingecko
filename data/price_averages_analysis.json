@@ -1,0 +1,31 @@
+{
+    "time_period": {
+        "start_date": "2024-03-01",
+        "end_date": "2024-12-27",
+        "total_days": 302
+    },
+    "bnb_analysis": {
+        "detailed_math": {
+            "total_sum": 176429.71782416085,
+            "number_of_days": 302,
+            "calculation": "Sum of all prices ($176429.72) \u00f7 Number of days (302) = $584.20"
+        },
+        "final_average_price": 584.2043636561617
+    },
+    "eth_analysis": {
+        "detailed_math": {
+            "total_sum": 947899.4483794558,
+            "number_of_days": 302,
+            "calculation": "Sum of all prices ($947899.45) \u00f7 Number of days (302) = $3138.74"
+        },
+        "final_average_price": 3138.739895296211
+    },
+    "id_analysis": {
+        "detailed_math": {
+            "total_sum": 174.99681325499967,
+            "number_of_days": 302,
+            "calculation": "Sum of all prices ($175.00) \u00f7 Number of days (302) = $0.58"
+        },
+        "final_average_price": 0.579459646539734
+    }
+}
